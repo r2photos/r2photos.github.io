@@ -261,6 +261,11 @@ header {
     justify-content: center;
 }
 
+.second_screen_background {
+    background: #e91578;
+    padding-bottom: 15px;
+}
+
 .order_services {
     display: flex;
     flex-wrap: wrap;
