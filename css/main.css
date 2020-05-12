@@ -78,7 +78,7 @@ nav {
 }
 
 .logo img {
-	width: 123px;
+	width: 123px !important;
 	height: auto;
 }
 
